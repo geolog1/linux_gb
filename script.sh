@@ -1,2 +1,3 @@
-#!/bin/bash
-echo HELLO TEAM, DEAR TEAM!!! 
+!#/bin/bash
+echo hello dear friends!! Whats up?
+new line

@@ -1,2 +1,3 @@
-!#/bin/bash
-echo Hello team_op
+#!/bin/bash
+echo Hello team_
+echo Hello All!!
